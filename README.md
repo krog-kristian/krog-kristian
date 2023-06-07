@@ -10,7 +10,7 @@
 
 <h3 align="left">My Projects</h3>
 <p align="left">
-<a href="https://fire-financial.azurewebsites.net/" target="blank">FIRE Financial</a>
+<a href="https://fire-financial.azurewebsites.net/" target="blank">FIRE Financial</a> /n
 <a href="https://krog-kristian.github.io/tcg-tracker/)" target="blank">TCG Tracker</a>
 </p>
 
