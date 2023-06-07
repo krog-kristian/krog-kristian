@@ -10,8 +10,8 @@
 
 <h3 align="left">My Projects</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/kristian-krog](https://fire-financial.azurewebsites.net/)" target="blank"><img align="center" alt="fire-financial" height="30" width="40" /></a>
-<a href="[https://linkedin.com/in/kristian-krog](https://krog-kristian.github.io/tcg-tracker/)" target="blank"><img align="center" alt="tcg-tracker" height="30" width="40" /></a>
+<a href="[https://linkedin.com/in/kristian-krog](https://fire-financial.azurewebsites.net/)" target="blank"><img align="center" alt="fire-financial" height="30" width="40" />FIRE Financial</a>
+<a href="[https://linkedin.com/in/kristian-krog](https://krog-kristian.github.io/tcg-tracker/)" target="blank"><img align="center" alt="tcg-tracker" height="30" width="40" />TCG Tracker</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
